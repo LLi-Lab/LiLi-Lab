@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Welcome to the Wang Lab!
+# Welcome to the Li Lab!
  
  Cells serve as the fundamental building blocks of the human body, and a key objective in life science is to unravel their mysteries: their identity, origins, and fates.
 
