@@ -4,16 +4,23 @@ title: Home
 
 # Welcome to the Li Lab!
  
- Cells serve as the fundamental building blocks of the human body, and a key objective in life science is to unravel their mysteries: their identity, origins, and fates.
+Cell fate choice is a fundamental biological question, which is involved in tissue development, aging and cancer progression. A central interest of the Li lab is to understand how genetic and epigenetic regulators as well as cell niche interplay with each other, and how they collectively regulate cell identity and cell dynamics. To achieve this, we are developing cutting-edge tools to record and decode cell fate choice. We hope the knowledge that we generate can contribute to tissue regeneration and curing disease. 
 
-The molecular identity of cells, or "who they are," has been extensively elucidated through single-cell genomics, specifically single-cell RNA sequencing. Over the past decade, an extensive collection of single-cell data from diverse tissues has been amassed, resulting in an unprecedentedly detailed atlas of cell states.
-
-In contrast, understanding the "where" questions related to cell dynamics and fate decisions has progressed more modestly in the past decade. Tracking the dynamic trajectories of cells requires lineage tracing, a technique involving the labeling of individual cells and profiling their lineage and state at specific time points. Currently, there is a great need for robust lineage tracing methods and reliable computational approaches to extract dynamic information from lineage tracing data.
-
-Affiliated with both [School of Life Sciences](https://en.westlake.edu.cn/faculty/shouwen-wang.html) and the [Physics Department](https://westlake.edu.cn/faculty/shouwen-wang.html) in Westlake University, we have assembled an interdisciplinary team comprising individuals with experimental training in life sciences as well as those with quantitative backgrounds such as physics, mathematics, and computer science. With our expertise in data analysis, algorithm development, and the ability to generate lineage tracing data in-house, we are committed to developing powerful and versatile lineage tracing tools that enable the study of cell lineage dynamics in their native context at an unprecedented resolution.
 
  {%
   include figure.html
   image="images/banner_art.png"
   width="100%"
 %}
+
+
+## Location
+ [School of Life Sciences](https://en.westlake.edu.cn/faculty/li-li.html) in Westlake University and [Westlake Laboratory](https://en.wllsb.edu.cn/research/researchTeam/202401/t20240115_36628.shtml).
+
+Yunqi campus, 18th Shilongshan street
+Xihu District, Hangzhou, Zhejiang, China
+
+## Join us!
+We are currently recruiting talented, ambitious, collaborative and kind people at all levels. 
+Email Li Li (lili@westlake.edu.cn) if you want to join us.
+
