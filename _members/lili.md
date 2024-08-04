@@ -1,6 +1,6 @@
 ---
 name: Li Li
-image: images/members/shouwen.jpg
+image: images/members/lili.jpg
 description: Assistant professor
 role: pi
 links:
