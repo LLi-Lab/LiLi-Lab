@@ -2,20 +2,18 @@
 
 # site properties and page defaults
 title: Li LAB
-subtitle: Where Machine Learning Meets Single-Cell Genomics
+subtitle: Recording and decoding cell fate choice
 description: ''
-logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
+#logo: images/logo.svg
+header: images/background.png
+footer: images/background.png
 baseurl: ""
 
 # site social media and other links
 links:
   email: lili@westlake.edu.cn
-  google-scholar: https://scholar.google.com.hk/citations?user=76hxR58AAAAJ&hl=en
-  github: LLi-Lab
-  twitter: ShouwenW
-  youtube: channel/UCr5rqY3-FstBCWBT_ogCqYg
+  google-scholar: https://scholar.google.com.hk/citations?user=T8mqisMAAAAJ&hl=en
+  twitter: Li_Li_666
 
 ### advanced settings
 

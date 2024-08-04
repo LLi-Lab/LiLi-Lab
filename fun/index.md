@@ -7,4 +7,8 @@ nav:
 
 ## Lab photos
 
-{% include masonry.html data="masonry_photos" %}
+ {%
+  include figure.html
+  image="images/lab_photo.png"
+  width="100%"
+%}

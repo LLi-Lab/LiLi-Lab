@@ -7,16 +7,18 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publications
 
-\* Corresponding authors
+Please check [google scholar](https://scholar.google.com.hk/citations?user=T8mqisMAAAAJ&hl=en) for details.
 
-<!-- ## In the pipeline
+Li, L., Bowling, S., McGeary, S. E., Yu, Q., Lemke, B., Alcedo, K., ... & Camargo, F. D. (2023). A mouse model with high clonal barcode diversity for joint lineage, transcriptomic, and epigenomic profiling in single cells. Cell, 186(23), 5183-5199.
+Research highlight: Tang, L. Greater diversity for lineage tracing. Nat Methods 20, 1872 (2023).
 
-L. Li, S. Bowling, S. E. McGeary, Q. Yu, B. Lemke, K. Alcedo, Y. Jia, X. Liu, M. Ferreira, A. M. Klein,  Shou-Wen Wang\*, Fernando D. Camargo\*, *[A mouse model with high clonal barcode diversity for joint lineage, transcriptomic, and epigenomic profiling in single cells](https://www.biorxiv.org/content/10.1101/2023.01.29.526062v1#page)*, Cell (2023) -->
+Li L., Li, L., Li, Q., Liu, X., Ma, X., Yong, J., ... & Tang, F. (2021), Dissecting the epigenomic dynamics of human fetal germ cell development at single-cell resolution, Cell Research, 31(4), 463-477.
 
-## Published
+Li L., Dong, J., Yan, L., Yong, J., Liu, X., Hu, Y., ... & Qiao, J. (2017), Single-cell RNA-seq analysis maps development of human germline cells and gonadal niche interactions, Cell Stem Cell, 20(6), 858-873.
 
-{% include search-box.html %}
+Wang, R., Liu, X., Li L., Yang, M., Yong, J., Zhai, F., ... & Tang, F (2022), Dissecting human gonadal cell lineage specification and sex determination using a single-cell RNA-seq approach, Genomics, Proteomics & Bioinformatics, 20(2), 223-245.
 
-{% include search-info.html %}
+Patel, S.H., Christodoulou, C., Weinreb, C., ...& Li L., Osorio, F.G., Daley, G.Q. and Camargo, F.D. (2022), Lifelong multilineage contribution by embryonic-born blood progenitors, Nature, 606(7915), 747-753. 
 
-{% include list.html data="citations" component="citation" style="rich" %}
+Ji, Q., Zheng, Y., Zhang, G., Hu, Y., Fan, X., Hou, Y., Wen, L., Li, L., Xu, Y., Wang, Y. and Tang, F. (2018), Single-cell RNA-seq analysis reveals the progression of human osteoarthritis, Annals of the rheumatic diseases, annrheumdis-2017.
+
