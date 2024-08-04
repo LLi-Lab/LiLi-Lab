@@ -1,7 +1,7 @@
 ---
-title: Photos
+title: Fun
 nav:
-  order: 7
+  order: 4
   tooltip: Lab photos
 ---
 
