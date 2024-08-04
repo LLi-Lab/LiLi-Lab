@@ -22,5 +22,5 @@ Xihu District, Hangzhou, Zhejiang, China
 
 ## Join us!
 We are currently recruiting talented, ambitious, collaborative and kind people at all levels. 
-Email Li Li ([lili@westlake.edu.cn](lili@westlake.edu.cn)) if you want to join us.
+Email Li Li (lili@westlake.edu.cn) if you want to join us.
 
