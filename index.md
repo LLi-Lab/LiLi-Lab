@@ -15,7 +15,7 @@ Cell fate choice is a fundamental biological question, which is involved in tiss
 
 
 ## Location
- [School of Life Sciences](https://en.westlake.edu.cn/faculty/li-li.html) in Westlake University and [Westlake Laboratory](https://en.wllsb.edu.cn/research/researchTeam/202401/t20240115_36628.shtml).
+ [School of Life Sciences](https://en.westlake.edu.cn/faculty/li-li.html) in Westlake University and [Westlake Laboratory](https://en.wllsb.edu.cn).
 
 Yunqi campus, 18th Shilongshan street
 Xihu District, Hangzhou, Zhejiang, China
