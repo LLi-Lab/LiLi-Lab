@@ -17,6 +17,6 @@ Yunqi campus, 18th Shilongshan street, Xihu District, Hangzhou, Zhejiang, China
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/contact_linyinsi.jpg" %}
+<!-- {% include banner.html image="images/contact_linyinsi.jpg" %} -->
 
 {% include section.html %}

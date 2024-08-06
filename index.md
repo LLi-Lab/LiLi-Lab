@@ -21,6 +21,6 @@ Yunqi campus, 18th Shilongshan street
 Xihu District, Hangzhou, Zhejiang, China
 
 ## Join us!
-We are currently recruiting talented, ambitious, collaborative and kind people at all levels. 
+We are currently recruiting talented, ambitious, collaborative and kind people at all levels. <br>
 Email Li Li (lili@westlake.edu.cn) if you want to join us.
 

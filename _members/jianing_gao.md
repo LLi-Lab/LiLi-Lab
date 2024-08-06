@@ -1,6 +1,6 @@
 ---
 name: Jianing Gao
-image: images/members/gao_jianing.jpg
+image: images/members/jianing_gao.jpg
 description: Postdoctoral Fellow
 role: postdoc
 links:
