@@ -48,5 +48,5 @@ nav:
 
 # <i class="fas fa-user-graduate"></i>Alumni
 
-- Chi Zhang (Tsinghua U. undergraduate), research assistent, 2024.8-2024.10
-- Hongpan Wu (Dalian Medical U. Master), research assistent, 2024.2-2024.8
+- Hulin Yu (Zhejiang U. PhD), Post doc, 2024.7-2025.1
+- Hongpan Wu (Dalian Medical U. Master), visiting student, 2024.2-2024.8
