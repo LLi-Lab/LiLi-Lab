@@ -18,6 +18,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: aa"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: postdoc"
 %}
 {%
@@ -48,5 +54,5 @@ nav:
 
 # <i class="fas fa-user-graduate"></i>Alumni
 
-- Hulin Yu (Zhejiang U. PhD), Post doc, 2024.7-2025.1
+- Huilin Yu (Zhejiang U. PhD), Post doc, 2024.7-2025.1
 - Hongpan Wu (Dalian Medical U. Master), visiting student, 2024.2-2024.8
