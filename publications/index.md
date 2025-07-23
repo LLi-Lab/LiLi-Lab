@@ -9,7 +9,7 @@ nav:
 
 Please check [google scholar](https://scholar.google.com.hk/citations?user=T8mqisMAAAAJ&hl=en) for details.
 
-L. Li#, S. Bowling#, H. Lin, D. Chen, S.-W. Wang*, F. D. Camargo*, [DARLIN mouse for in vivo lineage tracing at high efficiency and clonal diversity](https://www.nature.com/articles/s41596-025-01141-z). Nature Protocols, doi: 10.1038/s41596-025-01141-z (2025).
+L. Li#, S. Bowling#, H. Lin, D. Chen, S.-W. Wang\*, F. D. Camargo\*, [DARLIN mouse for in vivo lineage tracing at high efficiency and clonal diversity](https://www.nature.com/articles/s41596-025-01141-z). Nature Protocols, doi: 10.1038/s41596-025-01141-z (2025).
 
 M. Chen#, R. Fu#, Y. Chen, L. Li\*, S.-W. Wang\*, [High-resolution, noninvasive single-cell lineage tracing in mice and humans based on DNA methylation epimutations](https://www.nature.com/articles/s41592-024-02567-1). Nature Methods, doi: 10.1038/s41592-024-02567-1 (2025).
 
