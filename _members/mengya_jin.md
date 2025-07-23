@@ -1,5 +1,5 @@
 ---
-name: Yihua Yao
+name: Mengya Jin
 image: images/members/mengya_jin.jpg
 description: Administrative Assistant
 role: aa

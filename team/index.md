@@ -18,12 +18,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: aa"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: postdoc"
 %}
 {%
@@ -37,6 +31,12 @@ nav:
   data="members"
   component="portrait"
   filters="role: ra"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: aa"
 %}
 {%
   include list.html
