@@ -9,6 +9,8 @@ nav:
 
 Please check [google scholar](https://scholar.google.com.hk/citations?user=T8mqisMAAAAJ&hl=en) for details.
 
+J. Gao#, Z. Zhang#, D. Chen, S. Diao, S. Liu, S.-W. Wang\*, L. Li\*, [Spatio-DARLIN enables robust and efficient in situ lineage tracing in mice at single-cell resolution](https://www.nature.com/articles/s41592-026-03151-5). Nature Methods, doi: 10.1038/s41592-026-03151-5 (2026).
+
 L. Li#, S. Bowling#, H. Lin, D. Chen, S.-W. Wang\*, F. D. Camargo\*, [DARLIN mouse for in vivo lineage tracing at high efficiency and clonal diversity](https://www.nature.com/articles/s41596-025-01141-z). Nature Protocols, doi: 10.1038/s41596-025-01141-z (2025).
 
 M. Chen#, R. Fu#, Y. Chen, L. Li\*, S.-W. Wang\*, [High-resolution, noninvasive single-cell lineage tracing in mice and humans based on DNA methylation epimutations](https://www.nature.com/articles/s41592-024-02567-1). Nature Methods, doi: 10.1038/s41592-024-02567-1 (2025).
@@ -25,4 +27,3 @@ R. Wang#, X. Liu#, L. Li#, M. Yang, J. Yong, F. Zhai, L. Wen, L. Yan, J. Qiao\*,
 S. H. Patel, C. Christodoulou, C. Weinreb, Q. Yu, E. L. da Rocha, B. J. Pepe-Mooney, S. Bowling, L. Li, F. Osorio, G. Daley, F. Camargo, [Lifelong multilineage contribution by embryonic-born blood progenitors.](https://www.nature.com/articles/s41586-022-04804-z) Nature 606, 747–753 (2022).
 
 Q. Ji#, Y. Zheng#, G. Zhang, Y. Hu, X. Fan, Y. Hou, L. Wen, L. Li, Y. Xu, Y. Wang\*, F. Tang\*, [Single-cell RNA-seq analysis reveals the progression of human osteoarthritis.](https://ard.bmj.com/content/78/1/100.long) Annals of the rheumatic diseases 78, 100–110 (2019).
-
